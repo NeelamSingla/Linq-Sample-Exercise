@@ -1,2 +1,2 @@
-# DemoPolymer
-It is a Google Polymer js to try some input form.
+# C# Linq Sample codes
+It is just to test some C# LINQ exercises.
